@@ -1,3 +1,3 @@
 # NaturalsBissuness
-<h1>To lern how git works</h1>
+<h1>To learn how git works</h1>
 
